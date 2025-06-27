@@ -77,7 +77,7 @@ These datasets capture shipping records, production costs, and transactional sal
 
 | Performance Overview | Cost & Profitability | Quality & Efficiency |
 |----------------------|----------------------|----------------------|
-| ![Performance](./screenshots/performance.png) | ![Cost](./screenshots/cost.png) | ![Quality](./screenshots/quality.png) |
+| ![Performance](\Users\Rushik\Pictures\Screenshots\Screenshot 2025-06-27 203407.png) | ![Cost](./screenshots/cost.png) | ![Quality](./screenshots/quality.png) |
 
 ---
 
